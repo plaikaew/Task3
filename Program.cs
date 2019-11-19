@@ -12,7 +12,7 @@ namespace ImageAnalyze
     {
         // Add your Computer Vision subscription key to your environment variables.
         private const string subscriptionKey = "410e84e0db214b6eae4674759f359b9d";
-
+//kuy
         // localImagePath = @"C:\Documents\LocalImage.jpg"
         private const string localImagePath = @"starwar1.jpg";
 
